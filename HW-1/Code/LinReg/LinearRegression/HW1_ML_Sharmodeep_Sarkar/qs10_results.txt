@@ -1,0 +1,28 @@
+Class ->  0
+Optimization terminated successfully.
+         Current function value: 0.097922
+         Iterations: 22
+         Function evaluations: 23
+         Gradient evaluations: 23
+
+Class ->  1
+Optimization terminated successfully.
+         Current function value: 0.085614
+         Iterations: 24
+         Function evaluations: 25
+         Gradient evaluations: 25
+
+Class ->  2
+Optimization terminated successfully.
+         Current function value: 0.022204
+         Iterations: 30
+         Function evaluations: 31
+         Gradient evaluations: 31
+
+
+Optimal W
+[[-0.3364232   6.52630657  0.32229549]
+ [ 0.00978981 -2.64441705 -5.52519445]
+ [-6.02418505 -3.00154456  3.97463237]]
+Training Data Classification Accuracy =  0.656084656084656
+Test Data Classification Accuracy =  0.6190476190476191
